@@ -1,30 +1,40 @@
-### Hi there 👋
+# Hi there, I'm David Martínez 👋
+### Full-Stack Developer | Systems Engineer
 
-<div>
-<a href="https://instagram.com/dfmartz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-69D6FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:davidf.martinez.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-69D6FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.linkedin.com/in/anabeatrizdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-69D6FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   -->
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/dfmartz7?style=social)](https://twitter.com/dfmartz7)
 
-Web Developer | Systems Engineer
+## Tecnologías:
+[![Git](https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+</br>
+[![Tailwind Css](https://img.shields.io/badge/TailwindCss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7B11F8?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+</br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+</br>
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![.Net](https://img.shields.io/badge/.NET-7111ED?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+&nbsp;
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
-JavaScript | NodeJS | ReactJS | NextJS | C# | .NET | MongoDB | SQL Server
-
-<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfmartz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfmartz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**davomb/davomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encuéntrame en:
+[![Twitter](https://img.shields.io/badge/Twitter-@dfmartz7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@dfmartz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-martinez-bravo)
+[![Email](https://img.shields.io/badge/davidf.martinez.br@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:davidf.martinez.br@gmail.com)
+<!-- [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com) -->
