@@ -3,7 +3,7 @@
 <div>
 <a href="https://instagram.com/dfmartz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-69D6FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:davidf.martinez.br@gmail.com"><img src="https://img.shields.io/badge/Gmail-69D6FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anabeatrizdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<!-- <a href="https://www.linkedin.com/in/anabeatrizdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-69D6FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   -->
 </div>
 
 Web Developer | Systems Engineer
