@@ -1,7 +1,7 @@
 # Hi there, I'm David Martínez 👋
 ### Full-Stack Developer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dmartiz7?style=social)](https://twitter.com/dmartiz7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dmartiz7?style=social)](https://twitter.com/dmzdev7)
 
 I am a systems engineer
 
@@ -35,7 +35,7 @@ I am a systems engineer
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-@dmartiz7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dmartiz7)
+[![Twitter](https://img.shields.io/badge/Twitter-@dmartiz7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dmzdev7)
 [![Instagram](https://img.shields.io/badge/Instagram-@dmartiz7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/dmartiz7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-martinez-bravo)
 [![Email](https://img.shields.io/badge/davidf.martinez.br@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:davidf.martinez.br@gmail.com)
