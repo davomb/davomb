@@ -1,7 +1,7 @@
 # Hi there, I'm David Martínez 👋
 ### Full-Stack Developer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dmartiz7?style=social)](https://twitter.com/dmzdev7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dmzdev7?style=social)](https://twitter.com/dmzdev7)
 
 I am a systems engineer
 
