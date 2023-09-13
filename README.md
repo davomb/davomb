@@ -24,19 +24,19 @@ I am a systems engineer
 &nbsp;
 [![.Net](https://img.shields.io/badge/.NET-7111ED?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+<!--[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()-->
 &nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 &nbsp;
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
+<!--</br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 &nbsp;
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()-->
 
 ## Encuéntrame en:
 [![Twitter](https://img.shields.io/badge/Twitter-@dmzdev7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dmzdev7)
 [![Instagram](https://img.shields.io/badge/Instagram-@dmzdev7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/dmzdev7/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-martinez-bravo)
 [![Email](https://img.shields.io/badge/davidf.martinez.br@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:davidf.martinez.br@gmail.com)
-<!-- [![Web](https://img.shields.io/badge/Web-dmartiz.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dmartiz.com) -->
+<!-- [![Web](https://img.shields.io/badge/Web-dmzdev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dmzdev.com) -->
