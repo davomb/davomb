@@ -1,9 +1,6 @@
-# Hi there, I'm David Martínez 👋
-### Full-Stack Developer
+# Hey!, Soy David Martínez 👋
+### Ing. en Sistemas & Full-Stack Developer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dmzdev7?style=social)](https://twitter.com/dmzdev7)
-
-I am a systems engineer
 
 ## Tecnologías:
 [![Git](https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
@@ -32,7 +29,6 @@ I am a systems engineer
 <!--[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]() -->
 
 ## Encuéntrame en:
-[![Instagram](https://img.shields.io/badge/Instagram-@davo.mz7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/davo.mz7/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Martínez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-martinez-bravo)
 [![Email](https://img.shields.io/badge/davidf.martinez.br@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:davidf.martinez.br@gmail.com)
 <!-- [![Web](https://img.shields.io/badge/Web-dmzdev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dmzdev.com) -->
