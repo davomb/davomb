@@ -1,4 +1,4 @@
-# Hey!, Soy David Martínez 👋
+<h1 align="center">Hey Hola!, Soy David Martínez 👋</h1>
 ### Ing. en Sistemas & Full-Stack Developer
 
 
